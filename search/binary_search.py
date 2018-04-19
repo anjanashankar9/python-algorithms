@@ -17,6 +17,9 @@ The process is continued with smaller search spaces.
 
 returns index if there is a match.
 returns None otherwise.
+
+Time complexity - O(log n)
+
 """
 
 
